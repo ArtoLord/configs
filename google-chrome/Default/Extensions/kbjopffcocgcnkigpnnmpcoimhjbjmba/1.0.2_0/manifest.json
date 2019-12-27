@@ -1,0 +1,24 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "chrome_settings_overrides": {
+      "startup_pages": [ "https://www.google.ru/" ]
+   },
+   "description": "Google в качестве стартовой страницы.",
+   "externally_connectable": {
+      "matches": [ "https://www.google.ru/homepage/search/*" ]
+   },
+   "icons": {
+      "128": "128.png",
+      "16": "16.png",
+      "48": "48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuq/uK5yYMXR3IcERYr/zJN7rI4Xf3bGSQS6zhvT8aMfymavtrcmUWL71wLGK5eMOdsTo3Aoo/CjR2G5pDgsxeAKXVBFDdqU37MbZ4jFpH2P+22AAwTGOVCfahhPdKx0t+9fa2TYFGEGNshc8OsLmlwqiYXgoAxslce5N70BJB7icnJ9BgI2mttRUoyldLFmvKFrzjZcmWe8UfSBp6RpCF0YoQeFUGpAXygbXMaUGA5WmUqYHxtmqSx82PckjiR81MTkrEe2UHVWH7cdB2Yi355p4Qa6UNxkp/CzuJfmoccIxq0qE3YxL+fGhC5OzLX3Z5vU0g5HyCS92qTdmVQJ8kwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "36.0.1985.103",
+   "name": "Google в качестве стартовой страницы",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}

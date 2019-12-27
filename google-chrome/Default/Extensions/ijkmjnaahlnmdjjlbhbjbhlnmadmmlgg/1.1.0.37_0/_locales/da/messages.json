@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 spil"
+   },
+   "appDesc": {
+      "message": "Spille 2048 når som helst du ønsker, er det altid i din browser!"
+   },
+   "appName": {
+      "message": "To tusind otteogfyrre"
+   },
+   "backtogame": {
+      "message": "Tilbage til dit spil"
+   },
+   "best": {
+      "message": "Bedste"
+   },
+   "best_score": {
+      "message": "Din Score"
+   },
+   "buy_now": {
+      "message": "KØB NU"
+   },
+   "cancel": {
+      "message": "Annuller"
+   },
+   "choose_currency": {
+      "message": "Vælg din valuta"
+   },
+   "congratulations": {
+      "message": "Tillykke!"
+   },
+   "empty": {
+      "message": "Tom."
+   },
+   "enter_name": {
+      "message": "Indtast dit navn"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "google_sing_in": {
+      "message": "Log ind med Google"
+   },
+   "input_placeholder": {
+      "message": "Eksempel: Mike"
+   },
+   "keep_going": {
+      "message": "Keep going"
+   },
+   "lb_suggestion": {
+      "message": "Ønsker du at komme på highscore bord?"
+   },
+   "leaderboard": {
+      "message": "Top Score. Sæson #2"
+   },
+   "loading": {
+      "message": "Loading..."
+   },
+   "login_to_use_undo": {
+      "message": "Du bedes logge ind for at bruge eller købe Fortryde Bevæger sig"
+   },
+   "new_game": {
+      "message": "Nye Spil"
+   },
+   "night_mode": {
+      "message": "Nat-Tilstand"
+   },
+   "night_mode_desc": {
+      "message": "Komfort for dine øjne, når natten"
+   },
+   "no": {
+      "message": "Ingen"
+   },
+   "report_problem": {
+      "message": "Rapporter et problem"
+   },
+   "save": {
+      "message": "Spar"
+   },
+   "score": {
+      "message": "Score"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Du kan købe mere:"
+   },
+   "store_desription_zero": {
+      "message": "Du kan købe dem:"
+   },
+   "store_title_0": {
+      "message": "Du har 1 fortryd træk"
+   },
+   "store_title_1": {
+      "message": "Du har 2 fortryde bevæger sig"
+   },
+   "store_title_2": {
+      "message": "Du har 5 fortryde bevæger sig"
+   },
+   "to_shop": {
+      "message": "Shop"
+   },
+   "try_again": {
+      "message": "Prøv igen"
+   },
+   "tutorial_1": {
+      "message": "Brug dit tastatur"
+   },
+   "tutorial_2": {
+      "message": "at spille"
+   },
+   "undo_step": {
+      "message": "Fortryd Træk"
+   },
+   "victory": {
+      "message": "Du vinder!"
+   },
+   "yes": {
+      "message": "Ja"
+   }
+}

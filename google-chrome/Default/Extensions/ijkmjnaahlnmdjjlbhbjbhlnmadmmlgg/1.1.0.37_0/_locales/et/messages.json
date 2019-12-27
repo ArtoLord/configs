@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 mäng"
+   },
+   "appDesc": {
+      "message": "Mängida 2048 igal ajal soovite, see on alati oma brauseri!"
+   },
+   "appName": {
+      "message": "Kaks tuhat nelikümmend kaheksa"
+   },
+   "backtogame": {
+      "message": "Tagasi mängu"
+   },
+   "best": {
+      "message": "Parim"
+   },
+   "best_score": {
+      "message": "Skoor"
+   },
+   "buy_now": {
+      "message": "OSTA NÜÜD"
+   },
+   "cancel": {
+      "message": "Loobu"
+   },
+   "choose_currency": {
+      "message": "Vali valuuta"
+   },
+   "congratulations": {
+      "message": "Palju õnne!"
+   },
+   "empty": {
+      "message": "Tühi."
+   },
+   "enter_name": {
+      "message": "Sisestage oma nimi"
+   },
+   "game_over": {
+      "message": "Mäng Läbi!"
+   },
+   "google_sing_in": {
+      "message": "Logige sisse Google"
+   },
+   "input_placeholder": {
+      "message": "Näide: Mike"
+   },
+   "keep_going": {
+      "message": "Käiks"
+   },
+   "lb_suggestion": {
+      "message": "Kas soovite saada ka highscore tabel?"
+   },
+   "leaderboard": {
+      "message": "Top Skoori. Hooaeg #2"
+   },
+   "loading": {
+      "message": "Laadimine..."
+   },
+   "login_to_use_undo": {
+      "message": "Palun logi sisse, et kasutada või osta Undo Liigub"
+   },
+   "new_game": {
+      "message": "Uus Mäng"
+   },
+   "night_mode": {
+      "message": "Öörežiim"
+   },
+   "night_mode_desc": {
+      "message": "Mugavuse oma silmi, kui öösel"
+   },
+   "no": {
+      "message": "Nr"
+   },
+   "report_problem": {
+      "message": "Aruande probleem"
+   },
+   "save": {
+      "message": "Salvesta"
+   },
+   "score": {
+      "message": "Tulemus"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Sa võid osta rohkem:"
+   },
+   "store_desription_zero": {
+      "message": "Te saate neid osta:"
+   },
+   "store_title_0": {
+      "message": "Teil on 1 undo liikuda"
+   },
+   "store_title_1": {
+      "message": "Sul on 2 undo liigub"
+   },
+   "store_title_2": {
+      "message": "Sul on 5 undo liigub"
+   },
+   "to_shop": {
+      "message": "Pood"
+   },
+   "try_again": {
+      "message": "Proovi uuesti"
+   },
+   "tutorial_1": {
+      "message": "Kasuta oma klaviatuuri"
+   },
+   "tutorial_2": {
+      "message": "selleks, et mängi"
+   },
+   "undo_step": {
+      "message": "Võta Tagasi Liikuda"
+   },
+   "victory": {
+      "message": "Sa võidad!"
+   },
+   "yes": {
+      "message": "Jah"
+   }
+}

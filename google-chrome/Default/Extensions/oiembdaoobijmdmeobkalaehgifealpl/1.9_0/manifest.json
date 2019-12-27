@@ -1,0 +1,36 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "icons/browserAction/inactive.svg-16.png",
+         "19": "icons/browserAction/inactive.svg-19.png",
+         "24": "icons/browserAction/inactive.svg-24.png",
+         "32": "icons/browserAction/inactive.svg-32.png"
+      },
+      "default_title": "__MSG_browser_action_tooltip_inactive__"
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icons/extension.svg-128.png",
+      "16": "icons/extension.svg-16.png",
+      "32": "icons/extension.svg-32.png",
+      "48": "icons/extension.svg-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1xYUyq/3FQ3OvAqB3XWJJX+0CojMyFQZyks8pQJDEtaHYGDV5FFRV7uIWzEWy3o+q6JbgBIDR1c5oGomB/+JkNZVYyvL9kMYhvLZbDwEUg6EZIIzt9XX8MqWnpvq0r+Bo1N5nI/IqnYlvRBZbY5llZm3r0B4guVEyVcCEiJcqMGuDUdxSxQBCEtJGWEjwOrur3/OVvUpL37XhqAXqxg9fmwuCvZR+/s/gzLhN+Q4TTChU78LFZH+AlZRy3X1+TvwEDvc1khOqGBCziT/Hgfi3+ToW0MTvPbRUb9kf12g3dR3Rd3I8iJqRy4Vhicub7OOCQrlxEhnV4CFrdISuLWKuwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "60",
+   "name": "__MSG_name__",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options/options.html"
+   },
+   "permissions": [ "storage", "activeTab" ],
+   "short_name": "__MSG_short_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9",
+   "web_accessible_resources": [ "external/chromium/src/components/dom_distiller/core/html/dom_distiller_viewer.html" ]
+}

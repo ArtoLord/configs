@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 joc"
+   },
+   "appDesc": {
+      "message": "Jugar 2048 en qualsevol moment que desitgi, sempre en el seu navegador!"
+   },
+   "appName": {
+      "message": "Dos mil quaranta-vuit"
+   },
+   "backtogame": {
+      "message": "De tornada al seu joc"
+   },
+   "best": {
+      "message": "Millor"
+   },
+   "best_score": {
+      "message": "La Seva Puntuació"
+   },
+   "buy_now": {
+      "message": "COMPRA ARA"
+   },
+   "cancel": {
+      "message": "Cancel·la"
+   },
+   "choose_currency": {
+      "message": "Tria la teva moneda"
+   },
+   "congratulations": {
+      "message": "Felicitats!"
+   },
+   "empty": {
+      "message": "Buit."
+   },
+   "enter_name": {
+      "message": "Introduïu el vostre nom"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "google_sing_in": {
+      "message": "Inicia la sessió amb Google"
+   },
+   "input_placeholder": {
+      "message": "Exemple: Mike"
+   },
+   "keep_going": {
+      "message": "Ànims"
+   },
+   "lb_suggestion": {
+      "message": "Volen arribar a la taula de puntuació més alta?"
+   },
+   "leaderboard": {
+      "message": "Puntuació Superior. Temporada #2"
+   },
+   "loading": {
+      "message": "Carregant..."
+   },
+   "login_to_use_undo": {
+      "message": "Si us plau, login per utilitzar o comprar Desfer Moviments"
+   },
+   "new_game": {
+      "message": "Nou Joc"
+   },
+   "night_mode": {
+      "message": "Mode Nocturn"
+   },
+   "night_mode_desc": {
+      "message": "Comoditat per als teus ulls quan a la nit"
+   },
+   "no": {
+      "message": "No"
+   },
+   "report_problem": {
+      "message": "Informar d'un problema"
+   },
+   "save": {
+      "message": "Guardar"
+   },
+   "score": {
+      "message": "Puntuació"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Vostè pot comprar més:"
+   },
+   "store_desription_zero": {
+      "message": "Podeu comprar-les:"
+   },
+   "store_title_0": {
+      "message": "Tens 1 desfer moure"
+   },
+   "store_title_1": {
+      "message": "Vostè té 2 desfer moviments"
+   },
+   "store_title_2": {
+      "message": "Teniu 5 desfer moviments"
+   },
+   "to_shop": {
+      "message": "Botiga"
+   },
+   "try_again": {
+      "message": "Proveu una altra vegada"
+   },
+   "tutorial_1": {
+      "message": "Utilitzar el seu teclat"
+   },
+   "tutorial_2": {
+      "message": "per jugar"
+   },
+   "undo_step": {
+      "message": "Desfer Moure"
+   },
+   "victory": {
+      "message": "Vostè guanya!"
+   },
+   "yes": {
+      "message": "Sí"
+   }
+}

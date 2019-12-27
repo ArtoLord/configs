@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 spel"
+   },
+   "appDesc": {
+      "message": "Spela 2048 när som helst du vill, det finns alltid i din webbläsare!"
+   },
+   "appName": {
+      "message": "Två tusen fyrtioåtta"
+   },
+   "backtogame": {
+      "message": "Tillbaka till spelet"
+   },
+   "best": {
+      "message": "Bästa"
+   },
+   "best_score": {
+      "message": "Ditt Betyg"
+   },
+   "buy_now": {
+      "message": "KÖP NU"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "choose_currency": {
+      "message": "Välj din valuta"
+   },
+   "congratulations": {
+      "message": "Grattis!"
+   },
+   "empty": {
+      "message": "Tom."
+   },
+   "enter_name": {
+      "message": "Ange ditt namn"
+   },
+   "game_over": {
+      "message": "Spelet Över!"
+   },
+   "google_sing_in": {
+      "message": "Logga in med Google"
+   },
+   "input_placeholder": {
+      "message": "Exempel: Mike"
+   },
+   "keep_going": {
+      "message": "Hålla igång"
+   },
+   "lb_suggestion": {
+      "message": "Vill få till highscore bord?"
+   },
+   "leaderboard": {
+      "message": "Topp Betyg. Säsong #2"
+   },
+   "loading": {
+      "message": "Laddar..."
+   },
+   "login_to_use_undo": {
+      "message": "Vänligen logga in för att använda eller köpa Ångra Drag"
+   },
+   "new_game": {
+      "message": "Nya Spel"
+   },
+   "night_mode": {
+      "message": "Natt-Läge"
+   },
+   "night_mode_desc": {
+      "message": "Komfort för ögonen på natten när"
+   },
+   "no": {
+      "message": "Inga"
+   },
+   "report_problem": {
+      "message": "Rapportera ett problem"
+   },
+   "save": {
+      "message": "Spara"
+   },
+   "score": {
+      "message": "Betyg"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Du kan köpa mer:"
+   },
+   "store_desription_zero": {
+      "message": "Du kan köpa dem:"
+   },
+   "store_title_0": {
+      "message": "Du har 1 ångra drag"
+   },
+   "store_title_1": {
+      "message": "Du har 2 ångra drag"
+   },
+   "store_title_2": {
+      "message": "Du har 5 ångra drag"
+   },
+   "to_shop": {
+      "message": "Butiken"
+   },
+   "try_again": {
+      "message": "Försök igen"
+   },
+   "tutorial_1": {
+      "message": "Använd ditt tangentbord"
+   },
+   "tutorial_2": {
+      "message": "för att spela"
+   },
+   "undo_step": {
+      "message": "Ångra Drag"
+   },
+   "victory": {
+      "message": "Du vinner!"
+   },
+   "yes": {
+      "message": "Ja"
+   }
+}

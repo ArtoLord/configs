@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 spel"
+   },
+   "appDesc": {
+      "message": "Spelen 2048 wanneer u wilt, het is altijd in je browser!"
+   },
+   "appName": {
+      "message": "Tweeduizend achtenveertig"
+   },
+   "backtogame": {
+      "message": "Terug naar je spel"
+   },
+   "best": {
+      "message": "Beste"
+   },
+   "best_score": {
+      "message": "Uw Score"
+   },
+   "buy_now": {
+      "message": "NU KOPEN"
+   },
+   "cancel": {
+      "message": "Annuleren"
+   },
+   "choose_currency": {
+      "message": "Kies uw valuta"
+   },
+   "congratulations": {
+      "message": "Van harte gefeliciteerd!"
+   },
+   "empty": {
+      "message": "Leeg."
+   },
+   "enter_name": {
+      "message": "Voer uw naam in"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "google_sing_in": {
+      "message": "Aanmelden met Google"
+   },
+   "input_placeholder": {
+      "message": "Voorbeeld: Mike"
+   },
+   "keep_going": {
+      "message": "Blijven gaan"
+   },
+   "lb_suggestion": {
+      "message": "Wil je naar de highscore?"
+   },
+   "leaderboard": {
+      "message": "Hoogste Score. Seizoen #2"
+   },
+   "loading": {
+      "message": "Bezig met laden..."
+   },
+   "login_to_use_undo": {
+      "message": "Gelieve in te loggen om gebruik of de koop Ongedaan Beweegt"
+   },
+   "new_game": {
+      "message": "Nieuw Spel"
+   },
+   "night_mode": {
+      "message": "Nacht Modus"
+   },
+   "night_mode_desc": {
+      "message": "Comfort voor je ogen als in de nacht"
+   },
+   "no": {
+      "message": "Geen"
+   },
+   "report_problem": {
+      "message": "Een probleem melden"
+   },
+   "save": {
+      "message": "Opslaan"
+   },
+   "score": {
+      "message": "Score"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "U kunt meer kopen:"
+   },
+   "store_desription_zero": {
+      "message": "U kunt ze kopen:"
+   },
+   "store_title_0": {
+      "message": "U hebt 1 zet ongedaan maken"
+   },
+   "store_title_1": {
+      "message": "Je hebt 2 stappen ongedaan te maken"
+   },
+   "store_title_2": {
+      "message": "Je hebt 5 stappen ongedaan te maken"
+   },
+   "to_shop": {
+      "message": "Winkel"
+   },
+   "try_again": {
+      "message": "Probeer het opnieuw"
+   },
+   "tutorial_1": {
+      "message": "Gebruik uw toetsenbord"
+   },
+   "tutorial_2": {
+      "message": "om te spelen"
+   },
+   "undo_step": {
+      "message": "Zet Ongedaan Maken"
+   },
+   "victory": {
+      "message": "Je wint!"
+   },
+   "yes": {
+      "message": "Ja"
+   }
+}

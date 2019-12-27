@@ -1,0 +1,24 @@
+{
+   "background": {
+      "page": "src/background/background.html",
+      "persistent": false
+   },
+   "browser_action": {
+      "default_icon": "icons/icon19.png",
+      "default_popup": "src/browser_action/browser_action.html",
+      "default_title": "Resource downloader"
+   },
+   "description": "Download the resources displayed on a page easily!",
+   "devtools_page": "src/devtools/devtools.html",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqDD3C46NBfcvO0ZlWSxPintpepetfB48Jq7qTYJ+W4Y5q0f1Kc70NRWdC1UJZMV7X0iu+CQ4clqDFJeH3O01cIJSU69xbZQhwEwxgz8jBOb3QJdJoZVcKa9fQp5izGv8JeI4ECDgLX+DXHqtySZXMuSYKfIvNQUOBxELfkJTtOAXmnMfKyP640DYknld1AFYLwakNjOXk4odiSaUw6AzKaT++Wk2D04c9vO/6N93nY6eQXkZBOKg6Wg/jVg10MSbGRwg5SGHY+vgiJ+2REmVuuQtk4UFYV0+N2A9I7zgaegTkCW4HV3Y62DJjVLViY+1zmbAINyYtdOQEgOgt43MEwIDAQAB",
+   "manifest_version": 2,
+   "name": "Resources downloader",
+   "permissions": [ "\u003Call_urls>", "webNavigation", "downloads", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.5"
+}

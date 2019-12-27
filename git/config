@@ -1,0 +1,9 @@
+[alias]
+	co = checkout
+	cm = commit
+	s = status
+	l = log
+	c = clone
+[user]
+	email = artgoi111@gmail.com
+	name = ArtoLord

@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 παιχνίδι"
+   },
+   "appDesc": {
+      "message": "Play 2048 όποτε θέλετε, είναι πάντα στο πρόγραμμα περιήγησής σας!"
+   },
+   "appName": {
+      "message": "Δύο χιλιάδες σαράντα οκτώ"
+   },
+   "backtogame": {
+      "message": "Πίσω στο παιχνίδι σας"
+   },
+   "best": {
+      "message": "Καλύτερο"
+   },
+   "best_score": {
+      "message": "Το Σκορ Σας"
+   },
+   "buy_now": {
+      "message": "ΑΓΟΡΆΣΤΕ ΤΏΡΑ"
+   },
+   "cancel": {
+      "message": "Ακύρωση"
+   },
+   "choose_currency": {
+      "message": "Επιλέξτε το νόμισμά σας"
+   },
+   "congratulations": {
+      "message": "Συγχαρητήρια!"
+   },
+   "empty": {
+      "message": "Άδειο."
+   },
+   "enter_name": {
+      "message": "Πληκτρολογήστε το όνομά σας"
+   },
+   "game_over": {
+      "message": "Το Παιχνίδι Τελείωσε!"
+   },
+   "google_sing_in": {
+      "message": "Συνδεθείτε με το Google"
+   },
+   "input_placeholder": {
+      "message": "Παράδειγμα: Mike"
+   },
+   "keep_going": {
+      "message": "Συνέχισε"
+   },
+   "lb_suggestion": {
+      "message": "Θέλω να πάρει το highscore τραπέζι;"
+   },
+   "leaderboard": {
+      "message": "Κορυφαία Βαθμολογία. Σεζόν #2"
+   },
+   "loading": {
+      "message": "Φόρτωση..."
+   },
+   "login_to_use_undo": {
+      "message": "Παρακαλώ συνδεθείτε για να χρησιμοποιήσετε ή να αγοράσετε Αναιρέσετε Κινήσεις"
+   },
+   "new_game": {
+      "message": "Νέο Παιχνίδι"
+   },
+   "night_mode": {
+      "message": "Νυχτερινή Λειτουργία"
+   },
+   "night_mode_desc": {
+      "message": "Άνεση για τα μάτια σας όταν το βράδυ"
+   },
+   "no": {
+      "message": "Όχι"
+   },
+   "report_problem": {
+      "message": "Αναφέρετε ένα πρόβλημα"
+   },
+   "save": {
+      "message": "Αποθήκευση"
+   },
+   "score": {
+      "message": "Βαθμολογία"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Μπορείτε να αγοράσετε περισσότερα:"
+   },
+   "store_desription_zero": {
+      "message": "Μπορείτε να τα αγοράσετε:"
+   },
+   "store_title_0": {
+      "message": "Έχετε 1 αναιρέσετε τη μετακίνηση"
+   },
+   "store_title_1": {
+      "message": "Έχετε 2 αναιρέσετε κινήσεις"
+   },
+   "store_title_2": {
+      "message": "Έχετε 5 αναιρέσετε κινήσεις"
+   },
+   "to_shop": {
+      "message": "Κατάστημα"
+   },
+   "try_again": {
+      "message": "Προσπαθήστε ξανά"
+   },
+   "tutorial_1": {
+      "message": "Χρησιμοποιήστε το πληκτρολόγιό σας"
+   },
+   "tutorial_2": {
+      "message": "για να παίξετε"
+   },
+   "undo_step": {
+      "message": "Αναίρεση Κίνηση"
+   },
+   "victory": {
+      "message": "Μπορείτε να κερδίσετε!"
+   },
+   "yes": {
+      "message": "Ναι"
+   }
+}

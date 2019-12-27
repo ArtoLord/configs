@@ -1,0 +1,15 @@
+2019/11/13-18:45:20.748 1926 Reusing MANIFEST /home/artolord/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/11/13-18:45:20.748 1926 Recovering log #14
+2019/11/13-18:45:20.851 1926 Reusing old log /home/artolord/.config/google-chrome/Default/Sync Data/LevelDB/000014.log 
+2019/11/13-18:46:01.548 1ad5 Level-0 table #18: started
+2019/11/13-18:46:01.633 1ad5 Level-0 table #18: 115853 bytes OK
+2019/11/13-18:46:01.701 1ad5 Delete type=0 #14
+2019/11/13-18:46:01.702 1ad5 Compacting 4@0 + 1@1 files
+2019/11/13-18:46:01.745 1ad5 Generated table #19@0: 1065 keys, 124239 bytes
+2019/11/13-18:46:01.745 1ad5 Compacted 4@0 + 1@1 files => 124239 bytes
+2019/11/13-18:46:01.778 1ad5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/11/13-18:46:01.779 1ad5 Delete type=2 #18
+2019/11/13-18:46:01.779 1ad5 Delete type=2 #13
+2019/11/13-18:46:01.779 1ad5 Delete type=2 #15
+2019/11/13-18:46:01.779 1ad5 Delete type=2 #11
+2019/11/13-18:46:01.779 1ad5 Delete type=2 #8

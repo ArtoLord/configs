@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 hra"
+   },
+   "appDesc": {
+      "message": "Hrať 2048 kedykoľvek chcete, je to vždy vo vašom prehliadači!"
+   },
+   "appName": {
+      "message": "Dve tisíc štyridsať osem"
+   },
+   "backtogame": {
+      "message": "Späť do hry"
+   },
+   "best": {
+      "message": "Najlepšie"
+   },
+   "best_score": {
+      "message": "Vaše Skóre"
+   },
+   "buy_now": {
+      "message": "KÚPIŤ TERAZ"
+   },
+   "cancel": {
+      "message": "Zrušiť"
+   },
+   "choose_currency": {
+      "message": "Vyberte si vašu menu"
+   },
+   "congratulations": {
+      "message": "Blahoželáme!"
+   },
+   "empty": {
+      "message": "Prázdne."
+   },
+   "enter_name": {
+      "message": "Zadajte vaše meno"
+   },
+   "game_over": {
+      "message": "Koniec Hry!"
+   },
+   "google_sing_in": {
+      "message": "Prihlásiť sa do účtu Google"
+   },
+   "input_placeholder": {
+      "message": "Príklad: Mike"
+   },
+   "keep_going": {
+      "message": "Ďalej"
+   },
+   "lb_suggestion": {
+      "message": "Chcete získať highscore tabuľka?"
+   },
+   "leaderboard": {
+      "message": "Najvyššie Skóre. Sezóna #2"
+   },
+   "loading": {
+      "message": "Načítava sa..."
+   },
+   "login_to_use_undo": {
+      "message": "Prosím, prihláste sa používať alebo kúpiť Späť Pohybuje"
+   },
+   "new_game": {
+      "message": "Nová Hra"
+   },
+   "night_mode": {
+      "message": "Nočný Režim"
+   },
+   "night_mode_desc": {
+      "message": "Komfort pre vaše oči, keď v noci"
+   },
+   "no": {
+      "message": "Žiadne"
+   },
+   "report_problem": {
+      "message": "Nahlásiť problém"
+   },
+   "save": {
+      "message": "Uložiť"
+   },
+   "score": {
+      "message": "Skóre"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Môžete si kúpiť viac:"
+   },
+   "store_desription_zero": {
+      "message": "Môžete si ich kúpiť:"
+   },
+   "store_title_0": {
+      "message": "Máte 1 presunúť späť"
+   },
+   "store_title_1": {
+      "message": "Máte 2 obrátil sa pohybuje"
+   },
+   "store_title_2": {
+      "message": "Máte 5 vrátiť sa pohybuje"
+   },
+   "to_shop": {
+      "message": "Shop"
+   },
+   "try_again": {
+      "message": "Skúste znovu"
+   },
+   "tutorial_1": {
+      "message": "Použitie vašej klávesnice"
+   },
+   "tutorial_2": {
+      "message": "hrať"
+   },
+   "undo_step": {
+      "message": "Späť Pohyb"
+   },
+   "victory": {
+      "message": "Vyhrali ste!"
+   },
+   "yes": {
+      "message": "Áno"
+   }
+}

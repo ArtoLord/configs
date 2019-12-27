@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 jeu"
+   },
+   "appDesc": {
+      "message": "Jeu 2048 quand vous le voulez, il est toujours dans votre navigateur!"
+   },
+   "appName": {
+      "message": "Deux mille quarante huit"
+   },
+   "backtogame": {
+      "message": "Retour à votre jeu"
+   },
+   "best": {
+      "message": "Meilleur"
+   },
+   "best_score": {
+      "message": "Votre Score"
+   },
+   "buy_now": {
+      "message": "ACHETER MAINTENANT"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "choose_currency": {
+      "message": "Choisissez votre devise"
+   },
+   "congratulations": {
+      "message": "Félicitations!"
+   },
+   "empty": {
+      "message": "Vide."
+   },
+   "enter_name": {
+      "message": "Entrez votre nom"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "google_sing_in": {
+      "message": "Connectez-vous avec Google"
+   },
+   "input_placeholder": {
+      "message": "Exemple: Mike"
+   },
+   "keep_going": {
+      "message": "Continuer"
+   },
+   "lb_suggestion": {
+      "message": "Vous souhaitez obtenir le meilleur score du tableau?"
+   },
+   "leaderboard": {
+      "message": "Meilleur Score. Saison #2"
+   },
+   "loading": {
+      "message": "Chargement..."
+   },
+   "login_to_use_undo": {
+      "message": "Veuillez vous connecter pour utiliser ou acheter Annuler le déplacement"
+   },
+   "new_game": {
+      "message": "Nouveau Jeu"
+   },
+   "night_mode": {
+      "message": "Le Mode Nuit"
+   },
+   "night_mode_desc": {
+      "message": "Confort pour vos yeux lors de la nuit"
+   },
+   "no": {
+      "message": "Pas de"
+   },
+   "report_problem": {
+      "message": "Signaler un problème"
+   },
+   "save": {
+      "message": "Enregistrer"
+   },
+   "score": {
+      "message": "Score"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Vous pouvez acheter plus de:"
+   },
+   "store_desription_zero": {
+      "message": "Vous pouvez les acheter:"
+   },
+   "store_title_0": {
+      "message": "Vous avez 1 annuler déplacer"
+   },
+   "store_title_1": {
+      "message": "Vous avez 2 annuler le déplacement"
+   },
+   "store_title_2": {
+      "message": "Vous avez 5 annuler le déplacement"
+   },
+   "to_shop": {
+      "message": "Boutique"
+   },
+   "try_again": {
+      "message": "Essayez à nouveau"
+   },
+   "tutorial_1": {
+      "message": "Utilisez votre clavier"
+   },
+   "tutorial_2": {
+      "message": "pour jouer"
+   },
+   "undo_step": {
+      "message": "Annuler Déplacer"
+   },
+   "victory": {
+      "message": "Vous gagnez!"
+   },
+   "yes": {
+      "message": "Oui"
+   }
+}

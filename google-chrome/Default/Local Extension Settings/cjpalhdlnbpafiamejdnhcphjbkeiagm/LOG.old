@@ -1,0 +1,27 @@
+2019/10/09-19:55:54.672 a17 Reusing MANIFEST /home/artolord/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/10/09-19:55:54.673 a17 Recovering log #21
+2019/10/09-19:55:54.713 a17 Reusing old log /home/artolord/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000021.log 
+2019/10/09-20:00:58.644 c2f Level-0 table #25: started
+2019/10/09-20:00:58.795 c2f Level-0 table #25: 1939414 bytes OK
+2019/10/09-20:00:58.848 c2f Delete type=0 #21
+2019/10/09-20:02:59.515 c2f Level-0 table #27: started
+2019/10/09-20:02:59.670 c2f Level-0 table #27: 2360171 bytes OK
+2019/10/09-20:02:59.716 c2f Delete type=0 #24
+2019/10/09-20:02:59.719 c2f Compacting 4@0 + 2@1 files
+2019/10/09-20:02:59.940 c2f Generated table #28@0: 11 keys, 3228135 bytes
+2019/10/09-20:03:00.118 c2f Generated table #29@0: 7 keys, 2344657 bytes
+2019/10/09-20:03:00.241 c2f Generated table #30@0: 15 keys, 1155353 bytes
+2019/10/09-20:03:00.241 c2f Compacted 4@0 + 2@1 files => 6728145 bytes
+2019/10/09-20:03:00.281 c2f compacted to: files[ 0 4 1 0 0 0 0 ]
+2019/10/09-20:03:00.282 c2f Delete type=2 #16
+2019/10/09-20:03:00.282 c2f Delete type=2 #22
+2019/10/09-20:03:00.282 c2f Delete type=2 #25
+2019/10/09-20:03:00.282 c2f Delete type=2 #20
+2019/10/09-20:03:00.282 c2f Delete type=2 #27
+2019/10/09-20:03:00.282 c2f Delete type=2 #17
+2019/10/09-20:15:03.506 c2f Level-0 table #32: started
+2019/10/09-20:15:03.699 c2f Level-0 table #32: 2116849 bytes OK
+2019/10/09-20:15:03.753 c2f Delete type=0 #26
+2019/10/09-20:22:05.779 c2f Level-0 table #34: started
+2019/10/09-20:22:05.962 c2f Level-0 table #34: 3219097 bytes OK
+2019/10/09-20:22:06.005 c2f Delete type=0 #31

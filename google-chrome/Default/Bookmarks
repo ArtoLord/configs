@@ -1,0 +1,312 @@
+{
+   "checksum": "60abd51e75f0a35f8fbd946c008257ba",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13214422515879862",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13214422584530605",
+            "date_modified": "13214422584530606",
+            "id": "38",
+            "name": "Новая папка",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13214422515879870",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "1",
+      "synced": {
+         "children": [ {
+            "date_added": "13131056368074229",
+            "id": "5",
+            "name": "Основание АС равнобедренного треугольника равно 12 | Геометрия - просто!",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://geometriyaprosto.ru/osnovanie-as-ravnobedrennogo-treugolnika-ravno-12/#more-795"
+         }, {
+            "date_added": "13136973195012951",
+            "id": "6",
+            "name": "https://xn--b1ab2a0a.xn--b1aew.xn--p1ai/services/payment",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://xn--b1ab2a0a.xn--b1aew.xn--p1ai/services/payment"
+         }, {
+            "date_added": "13142355882384184",
+            "id": "7",
+            "name": "Velopulse.ru GT",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://velopulse.ru/catalog/24"
+         }, {
+            "date_added": "13143238675675217",
+            "id": "8",
+            "name": "Установка родного разрешения (Ubuntu 12.04, GTX 560) — Desktop — Форум",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.linux.org.ru/forum/desktop/9512444"
+         }, {
+            "date_added": "13143238675675217",
+            "id": "9",
+            "name": "Установка родного разрешения (Ubuntu 12.04, GTX 560) — Desktop — Форум",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.linux.org.ru/forum/desktop/9512444"
+         }, {
+            "date_added": "13161182178728744",
+            "id": "10",
+            "name": "Как создать чат приложение для Android с помощью Firebase",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://code.tutsplus.com/ru/tutorials/how-to-create-an-android-chat-app-using-firebase--cms-27397"
+         }, {
+            "date_added": "13162167946865625",
+            "id": "11",
+            "name": "Ноутбук Asus n55sf черный купить в Санкт-Петербурге на Avito — Объявления на сайте Avito",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.avito.ru/sankt-peterburg/noutbuki/noutbuk_asus_n55sf_chernyy_544442183"
+         }, {
+            "date_added": "13163326954543277",
+            "id": "12",
+            "name": "Android: ListActivity - создаём прокручиваемый список",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://developer.alexanderklimov.ru/android/listactivity.php"
+         }, {
+            "date_added": "13164096589400750",
+            "id": "13",
+            "name": "Выбор базы данных - Stack Overflow на русском",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ru.stackoverflow.com/questions/489560/%D0%92%D1%8B%D0%B1%D0%BE%D1%80-%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85"
+         }, {
+            "date_added": "13171294397181108",
+            "id": "14",
+            "name": "Собираем компьютер за 40000 рублей. Игровая система | myblaze.ru",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://myblaze.ru/sborka-kompyutera-za-45000-rubley-horoshiy-variant-dlya-igr/"
+         }, {
+            "date_added": "13177865632871572",
+            "id": "15",
+            "name": "Процессор INTEL Core i3 7100",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.citilink.ru/catalog/computers_and_notebooks/parts/cpu/410650/"
+         }, {
+            "date_added": "13177865849919222",
+            "id": "16",
+            "name": "Материнская плата MSI H110M PRO-VD",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.citilink.ru/catalog/computers_and_notebooks/parts/motherboards/352158/"
+         }, {
+            "date_added": "13178132123982903",
+            "id": "17",
+            "name": "Урок 14. Наполнение Toolbar вложенными элементами на экране SearchUsersActivity – Devcolibri",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://devcolibri.com/unit/%D1%83%D1%80%D0%BE%D0%BA-14-%D0%BD%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-toolbar-%D0%B2%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD/"
+         }, {
+            "date_added": "13178581216923711",
+            "id": "18",
+            "name": "Новый SwipeRefreshLayout из библиотеки Android support — «потяните чтобы обновить» / Хабр",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.habr.com/post/218365/"
+         }, {
+            "date_added": "13178636335981919",
+            "id": "19",
+            "name": "gridfs - npm",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.npmjs.com/package/gridfs"
+         }, {
+            "date_added": "13178637510788918",
+            "id": "20",
+            "name": "Retrofit 2: Загружаем файлы на сервер | Школа Android",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://android-school.ru/retrofit-2-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B6%D0%B0%D0%B5%D0%BC-%D1%84%D0%B0%D0%B9%D0%BB%D1%8B-%D0%BD%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80/"
+         }, {
+            "date_added": "13178715102900126",
+            "id": "21",
+            "name": "javascript - Как разобрать тело multipart/form-data с помощью Koa?",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://stackoverrun.com/ru/q/9302095"
+         }, {
+            "date_added": "13178840685537506",
+            "id": "22",
+            "name": "Фоновая подгрузка списков / Хабр",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.habr.com/post/130319/"
+         }, {
+            "date_added": "13178906073075283",
+            "id": "23",
+            "name": "Создаем ListView с Context Action Bar как в новом Gmail / Хабр",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.habr.com/post/185004/"
+         }, {
+            "date_added": "13179011264961762",
+            "id": "24",
+            "name": "Как пользоваться Git для начинающих | Losst",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://losst.ru/kak-polzovatsya-git-dlya-nachinayushhih"
+         }, {
+            "date_added": "13180720827176379",
+            "id": "25",
+            "name": "А.С.Пушкин. К Чаадаеву («Любви, надежды, тихой славы...»)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://rvb.ru/pushkin/01text/01versus/0217_22/1818/0036.htm"
+         }, {
+            "date_added": "13181737474760615",
+            "id": "26",
+            "meta_info": {
+               "last_visited": "13183805031519348",
+               "last_visited_desktop": "13195402997743167"
+            },
+            "name": "GitHub - rykachevskiy/239: Machine learning\\Deep learning course 18/19 in FML 239",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/rykachevskiy/239"
+         }, {
+            "date_added": "13181818899692132",
+            "id": "27",
+            "meta_info": {
+               "last_visited": "13181818899695918",
+               "last_visited_desktop": "13181819720282571"
+            },
+            "name": "Сортировка методом пузырька",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://pas1.ru/bubbles"
+         }, {
+            "date_added": "13181819338574752",
+            "id": "28",
+            "meta_info": {
+               "last_visited": "13181819384212435",
+               "last_visited_desktop": "13181819766366147"
+            },
+            "name": "Языки программирования",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://learnprogramm.ucoz.ru/index/metod_puzyrka_s_flazhkom/0-67"
+         }, {
+            "date_added": "13181819379772471",
+            "id": "29",
+            "meta_info": {
+               "last_visited": "13181819379775027"
+            },
+            "name": "Упорядочивание одномерного массива - Pascal - Киберфорум",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.cyberforum.ru/pascal/thread77106.html"
+         }, {
+            "date_added": "13182286071263894",
+            "id": "30",
+            "meta_info": {
+               "last_visited_desktop": "13182797088091575"
+            },
+            "name": "«Снег» И. Анненский - читать, анализ стихотворения",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://pishi-stihi.ru/sneg-annenskij.html"
+         }, {
+            "date_added": "13183917439792714",
+            "id": "31",
+            "meta_info": {
+               "last_visited": "13183917439794527"
+            },
+            "name": "Лучший хакерский курс с Kali Linux на русском языке | Библиотека программиста",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://proglib.io/p/kali-linux-hacker/"
+         }, {
+            "date_added": "13185222834908567",
+            "id": "32",
+            "meta_info": {
+               "last_visited": "13185232789043341",
+               "last_visited_desktop": "13198418231880061"
+            },
+            "name": "ОНТИ 18/19. Этап 1. Углубленная информатика. Попытка 3. – Step 2 – Stepik",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://stepik.org/lesson/126702/step/2?unit=100920"
+         }, {
+            "date_added": "13186306682992901",
+            "id": "33",
+            "meta_info": {
+               "last_visited": "13186306683010660"
+            },
+            "name": "android - Сохранить ArrayList в SharedPreferences - Qaru",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://qaru.site/questions/29360/save-arraylist-to-sharedpreferences"
+         }, {
+            "date_added": "13186774733006098",
+            "id": "34",
+            "meta_info": {
+               "last_visited": "13186774733009157",
+               "last_visited_desktop": "13186774839236588"
+            },
+            "name": "Грегор Мендель биография естествоиспытателя, ученого-ботаника и религиозного деятеля, монаха, основоположника учения о наследственности ",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://to-name.ru/biography/gregor-mendel.htm"
+         }, {
+            "date_added": "13189002810930911",
+            "id": "35",
+            "meta_info": {
+               "last_visited": "13189002810937742"
+            },
+            "name": "cat_dog_Try | Kaggle",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.kaggle.com/abhishekrock/cat-dog-try/notebook"
+         }, {
+            "date_added": "13189692870705804",
+            "id": "36",
+            "meta_info": {
+               "last_visited": "13189692870708432"
+            },
+            "name": "Comixify",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://comixify.ii.pw.edu.pl/"
+         }, {
+            "date_added": "13190902979369244",
+            "id": "37",
+            "meta_info": {
+               "last_visited": "13190902979374126",
+               "last_visited_desktop": "13190916328366896"
+            },
+            "name": "duc0/deep-dream-in-pytorch · GitHub",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/duc0/deep-dream-in-pytorch?files=1"
+         } ],
+         "date_added": "13214422515879878",
+         "date_modified": "13190902979369244",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

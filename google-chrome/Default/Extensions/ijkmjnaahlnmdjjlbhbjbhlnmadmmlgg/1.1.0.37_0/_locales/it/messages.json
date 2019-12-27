@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 gioco"
+   },
+   "appDesc": {
+      "message": "Giocare a 2048 in qualsiasi momento si desidera, è sempre nel tuo browser!"
+   },
+   "appName": {
+      "message": "Due mila quaranta otto"
+   },
+   "backtogame": {
+      "message": "Di nuovo al vostro gioco"
+   },
+   "best": {
+      "message": "Migliore"
+   },
+   "best_score": {
+      "message": "Il Tuo Punteggio"
+   },
+   "buy_now": {
+      "message": "ACQUISTA ORA"
+   },
+   "cancel": {
+      "message": "Annulla"
+   },
+   "choose_currency": {
+      "message": "Scegli la tua valuta"
+   },
+   "congratulations": {
+      "message": "Complimenti!"
+   },
+   "empty": {
+      "message": "Vuoto."
+   },
+   "enter_name": {
+      "message": "Inserisci il tuo nome"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "google_sing_in": {
+      "message": "Accedi con Google"
+   },
+   "input_placeholder": {
+      "message": "Esempio: Mike"
+   },
+   "keep_going": {
+      "message": "Andare avanti"
+   },
+   "lb_suggestion": {
+      "message": "Voglio arrivare alla classifica?"
+   },
+   "leaderboard": {
+      "message": "Punteggio Più Alto. Stagione #2"
+   },
+   "loading": {
+      "message": "Il caricamento..."
+   },
+   "login_to_use_undo": {
+      "message": "Effettua il login per utilizzare o acquistare Annullare le Mosse"
+   },
+   "new_game": {
+      "message": "Nuovo Gioco"
+   },
+   "night_mode": {
+      "message": "La Modalità Notte"
+   },
+   "night_mode_desc": {
+      "message": "Comfort per i vostri occhi durante la notte"
+   },
+   "no": {
+      "message": "No"
+   },
+   "report_problem": {
+      "message": "Segnala un problema"
+   },
+   "save": {
+      "message": "Salva"
+   },
+   "score": {
+      "message": "Punteggio"
+   },
+   "signout": {
+      "message": "Disconnetti"
+   },
+   "store_desription": {
+      "message": "È possibile acquistare più:"
+   },
+   "store_desription_zero": {
+      "message": "Si possono acquistare:"
+   },
+   "store_title_0": {
+      "message": "Hai 1 annulla sposta"
+   },
+   "store_title_1": {
+      "message": "Hai 2 annullare le mosse"
+   },
+   "store_title_2": {
+      "message": "Hai 5 annullare le mosse"
+   },
+   "to_shop": {
+      "message": "Negozio"
+   },
+   "try_again": {
+      "message": "Provare di nuovo"
+   },
+   "tutorial_1": {
+      "message": "Utilizzare la tastiera"
+   },
+   "tutorial_2": {
+      "message": "per giocare"
+   },
+   "undo_step": {
+      "message": "Annulla Sposta"
+   },
+   "victory": {
+      "message": "Si vince!"
+   },
+   "yes": {
+      "message": "Sì"
+   }
+}

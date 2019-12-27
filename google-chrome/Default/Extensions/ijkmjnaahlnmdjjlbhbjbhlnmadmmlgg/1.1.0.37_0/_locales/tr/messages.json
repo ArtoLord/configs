@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 oyun"
+   },
+   "appDesc": {
+      "message": "İstediğin zaman 2048 oyun, her zaman tarayıcınızda!"
+   },
+   "appName": {
+      "message": "İki bin kırk sekiz"
+   },
+   "backtogame": {
+      "message": "Geri oyunu "
+   },
+   "best": {
+      "message": "En iyi"
+   },
+   "best_score": {
+      "message": "Puanınızı "
+   },
+   "buy_now": {
+      "message": "SATIN AL "
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "choose_currency": {
+      "message": "Para birimi seçin "
+   },
+   "congratulations": {
+      "message": "Tebrikler!"
+   },
+   "empty": {
+      "message": "Boş."
+   },
+   "enter_name": {
+      "message": "Adınızı girin "
+   },
+   "game_over": {
+      "message": "Oyun Bitti!"
+   },
+   "google_sing_in": {
+      "message": "Google ile oturum "
+   },
+   "input_placeholder": {
+      "message": "Örnek: Mike"
+   },
+   "keep_going": {
+      "message": "Devam et "
+   },
+   "lb_suggestion": {
+      "message": "Skor tablosuna almak istiyorum?"
+   },
+   "leaderboard": {
+      "message": "Yüksek Puan. Sezon #2"
+   },
+   "loading": {
+      "message": "Yükleniyor..."
+   },
+   "login_to_use_undo": {
+      "message": "Geri Hamle kullanmak veya satın lütfen giriş "
+   },
+   "new_game": {
+      "message": "Yeni Oyun"
+   },
+   "night_mode": {
+      "message": "Gece Modu"
+   },
+   "night_mode_desc": {
+      "message": "Gözlerin için geceleri konfor "
+   },
+   "no": {
+      "message": "Hayır"
+   },
+   "report_problem": {
+      "message": "Bir sorun rapor "
+   },
+   "save": {
+      "message": "Kaydet"
+   },
+   "score": {
+      "message": "Puan"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Daha fazla satın alabilirsiniz:"
+   },
+   "store_desription_zero": {
+      "message": "Satın alabilirsiniz:"
+   },
+   "store_title_0": {
+      "message": "1 geri hareket var "
+   },
+   "store_title_1": {
+      "message": "2 geri hareketleri var "
+   },
+   "store_title_2": {
+      "message": "5 geri hareket var "
+   },
+   "to_shop": {
+      "message": "Alışveriş"
+   },
+   "try_again": {
+      "message": "Tekrar deneyin "
+   },
+   "tutorial_1": {
+      "message": "Klavye kullan "
+   },
+   "tutorial_2": {
+      "message": "oynamak için "
+   },
+   "undo_step": {
+      "message": "Hamle Geri Al "
+   },
+   "victory": {
+      "message": "Sen kazandın!"
+   },
+   "yes": {
+      "message": "Evet"
+   }
+}

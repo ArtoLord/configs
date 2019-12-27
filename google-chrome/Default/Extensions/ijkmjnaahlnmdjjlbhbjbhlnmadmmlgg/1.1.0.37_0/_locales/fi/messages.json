@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 peli"
+   },
+   "appDesc": {
+      "message": "Pelata 2048 milloin haluat, se on aina selaimessasi!"
+   },
+   "appName": {
+      "message": "Kaksi tuhatta neljäkymmentä kahdeksan"
+   },
+   "backtogame": {
+      "message": "Takaisin peliin"
+   },
+   "best": {
+      "message": "Paras"
+   },
+   "best_score": {
+      "message": "Pisteet"
+   },
+   "buy_now": {
+      "message": "OSTA NYT"
+   },
+   "cancel": {
+      "message": "Peruuta"
+   },
+   "choose_currency": {
+      "message": "Valitse valuutta"
+   },
+   "congratulations": {
+      "message": "Kanssa onnittelumme!"
+   },
+   "empty": {
+      "message": "Tyhjä."
+   },
+   "enter_name": {
+      "message": "Kirjoita nimesi"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "google_sing_in": {
+      "message": "Kirjaudu sisään Google"
+   },
+   "input_placeholder": {
+      "message": "Esimerkki: Mike"
+   },
+   "keep_going": {
+      "message": "Jatka"
+   },
+   "lb_suggestion": {
+      "message": "Haluatko saada korkeat pisteet taulukossa?"
+   },
+   "leaderboard": {
+      "message": "Top Pisteet. Kausi #2"
+   },
+   "loading": {
+      "message": "Loading..."
+   },
+   "login_to_use_undo": {
+      "message": "Ole hyvä ja kirjaudu käyttää tai ostaa Kumoa Liikkuu"
+   },
+   "new_game": {
+      "message": "Uusi Peli"
+   },
+   "night_mode": {
+      "message": "Night Mode"
+   },
+   "night_mode_desc": {
+      "message": "Mukavuutta silmäsi, kun yöllä"
+   },
+   "no": {
+      "message": "Ei"
+   },
+   "report_problem": {
+      "message": "Ilmoita ongelmasta"
+   },
+   "save": {
+      "message": "Tallenna"
+   },
+   "score": {
+      "message": "Pisteet"
+   },
+   "signout": {
+      "message": "Uloskirjautuminen"
+   },
+   "store_desription": {
+      "message": "Voit ostaa lisää:"
+   },
+   "store_desription_zero": {
+      "message": "Voit ostaa niitä:"
+   },
+   "store_title_0": {
+      "message": "Sinulla on 1 kumoa liikkua"
+   },
+   "store_title_1": {
+      "message": "Sinulla on 2 kumoa liikkuu"
+   },
+   "store_title_2": {
+      "message": "Sinulla on 5 kumoa liikkuu"
+   },
+   "to_shop": {
+      "message": "Kauppa"
+   },
+   "try_again": {
+      "message": "Yrittää uudelleen"
+   },
+   "tutorial_1": {
+      "message": "Käytä näppäimistön"
+   },
+   "tutorial_2": {
+      "message": "pelata"
+   },
+   "undo_step": {
+      "message": "Kumoa Liikkua"
+   },
+   "victory": {
+      "message": "Voit voittaa!"
+   },
+   "yes": {
+      "message": "Kyllä"
+   }
+}

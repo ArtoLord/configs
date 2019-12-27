@@ -1,0 +1,16 @@
+2019/10/09-19:56:37.305 aa3 Reusing MANIFEST /home/artolord/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/09-19:56:37.305 aa3 Recovering log #23
+2019/10/09-19:56:37.315 aa3 Reusing old log /home/artolord/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000023.log 
+2019/10/09-19:56:37.880 b53 Compacting 2@0 + 1@1 files
+2019/10/09-19:56:38.167 b53 Generated table #26@0: 21 keys, 1855925 bytes
+2019/10/09-19:56:38.167 b53 Compacted 2@0 + 1@1 files => 1855925 bytes
+2019/10/09-19:56:38.205 b53 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/09-19:56:38.205 b53 Delete type=2 #22
+2019/10/09-19:56:38.205 b53 Delete type=2 #20
+2019/10/09-19:56:38.205 b53 Delete type=2 #24
+2019/10/09-19:57:19.098 b53 Level-0 table #28: started
+2019/10/09-19:57:19.280 b53 Level-0 table #28: 1864650 bytes OK
+2019/10/09-19:57:19.334 b53 Delete type=0 #23
+2019/10/09-19:57:21.401 b53 Level-0 table #30: started
+2019/10/09-19:57:21.583 b53 Level-0 table #30: 1864029 bytes OK
+2019/10/09-19:57:21.623 b53 Delete type=0 #27

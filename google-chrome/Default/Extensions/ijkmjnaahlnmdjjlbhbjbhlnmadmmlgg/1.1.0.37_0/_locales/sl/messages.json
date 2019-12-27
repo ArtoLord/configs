@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 igre"
+   },
+   "appDesc": {
+      "message": "Igrajo 2048 kadarkoli želite, vedno je v vašem brskalniku!"
+   },
+   "appName": {
+      "message": "Dva tisoč štirideset osem"
+   },
+   "backtogame": {
+      "message": "Nazaj na igre"
+   },
+   "best": {
+      "message": "Najboljši"
+   },
+   "best_score": {
+      "message": "Vaš Rezultat"
+   },
+   "buy_now": {
+      "message": "KUPI ZDAJ"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "choose_currency": {
+      "message": "Izberite svojo valuto"
+   },
+   "congratulations": {
+      "message": "Čestitke!"
+   },
+   "empty": {
+      "message": "Prazno."
+   },
+   "enter_name": {
+      "message": "Vpišite svoje ime"
+   },
+   "game_over": {
+      "message": "Igre Je Konec!"
+   },
+   "google_sing_in": {
+      "message": "Prijavite z Google"
+   },
+   "input_placeholder": {
+      "message": "Primer: Mike"
+   },
+   "keep_going": {
+      "message": "Naprej"
+   },
+   "lb_suggestion": {
+      "message": "Želite priti do najboljših mizi?"
+   },
+   "leaderboard": {
+      "message": "Top Score. Sezona #2"
+   },
+   "loading": {
+      "message": "Nalaganje..."
+   },
+   "login_to_use_undo": {
+      "message": "Prosimo, prijavite se za uporabo ali nakup Razveljavitev Poteze"
+   },
+   "new_game": {
+      "message": "Nova Igra"
+   },
+   "night_mode": {
+      "message": "Nočni Način"
+   },
+   "night_mode_desc": {
+      "message": "Udobje za vaše oči, ko ponoči"
+   },
+   "no": {
+      "message": "Št."
+   },
+   "report_problem": {
+      "message": "Poročilo problem"
+   },
+   "save": {
+      "message": "Shranjevanje"
+   },
+   "score": {
+      "message": "Rezultat"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Kupite lahko več:"
+   },
+   "store_desription_zero": {
+      "message": "Lahko jih kupite:"
+   },
+   "store_title_0": {
+      "message": "Imate 1 razveljavi premik"
+   },
+   "store_title_1": {
+      "message": "Imate 2 razveljavitev poteze"
+   },
+   "store_title_2": {
+      "message": "Imate 5 razveljavitev poteze"
+   },
+   "to_shop": {
+      "message": "Trgovina"
+   },
+   "try_again": {
+      "message": "Poskusite znova"
+   },
+   "tutorial_1": {
+      "message": "Uporabite tipkovnico"
+   },
+   "tutorial_2": {
+      "message": "igrajo"
+   },
+   "undo_step": {
+      "message": "Razveljavi Premik"
+   },
+   "victory": {
+      "message": "Zmagal si!"
+   },
+   "yes": {
+      "message": "Da,"
+   }
+}

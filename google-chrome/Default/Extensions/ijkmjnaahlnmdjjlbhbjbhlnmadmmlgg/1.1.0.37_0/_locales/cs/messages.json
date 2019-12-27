@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 hra"
+   },
+   "appDesc": {
+      "message": "Hrát 2048, kdykoliv budete chtít, je to vždy ve vašem prohlížeči!"
+   },
+   "appName": {
+      "message": "Dva tisíce čtyřicet osm"
+   },
+   "backtogame": {
+      "message": "Zpět do hry"
+   },
+   "best": {
+      "message": "Nejlepší"
+   },
+   "best_score": {
+      "message": "Vaše Skóre"
+   },
+   "buy_now": {
+      "message": "KUP TEĎ"
+   },
+   "cancel": {
+      "message": "Zrušit"
+   },
+   "choose_currency": {
+      "message": "Vyberte si měnu"
+   },
+   "congratulations": {
+      "message": "Gratulujeme!"
+   },
+   "empty": {
+      "message": "Prázdný."
+   },
+   "enter_name": {
+      "message": "Zadejte své jméno"
+   },
+   "game_over": {
+      "message": "Konec Hry!"
+   },
+   "google_sing_in": {
+      "message": "Přihlásit se pomocí Google"
+   },
+   "input_placeholder": {
+      "message": "Příklad: Mike"
+   },
+   "keep_going": {
+      "message": "Dál"
+   },
+   "lb_suggestion": {
+      "message": "Chci se dostat na highscore tabulky?"
+   },
+   "leaderboard": {
+      "message": "Nejvyšší Skóre. Sezóna #2"
+   },
+   "loading": {
+      "message": "Loading..."
+   },
+   "login_to_use_undo": {
+      "message": "Prosím, přihlaste se k použití nebo koupit Undo Pohyby"
+   },
+   "new_game": {
+      "message": "Nová Hra"
+   },
+   "night_mode": {
+      "message": "Noční Režim"
+   },
+   "night_mode_desc": {
+      "message": "Pohodlí pro vaše oči, když v noci"
+   },
+   "no": {
+      "message": "Ne"
+   },
+   "report_problem": {
+      "message": "Nahlásit problém"
+   },
+   "save": {
+      "message": "Uložit"
+   },
+   "score": {
+      "message": "Skóre"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Můžete si koupit další:"
+   },
+   "store_desription_zero": {
+      "message": "Můžete si je koupit:"
+   },
+   "store_title_0": {
+      "message": "Máte 1 undo tah"
+   },
+   "store_title_1": {
+      "message": "Máte 2 undo pohyby"
+   },
+   "store_title_2": {
+      "message": "Máte 5 undo pohyby"
+   },
+   "to_shop": {
+      "message": "Obchod"
+   },
+   "try_again": {
+      "message": "Zkuste to znovu"
+   },
+   "tutorial_1": {
+      "message": "Pomocí klávesnice"
+   },
+   "tutorial_2": {
+      "message": "hrát"
+   },
+   "undo_step": {
+      "message": "Undo Tah"
+   },
+   "victory": {
+      "message": "Můžete vyhrát!"
+   },
+   "yes": {
+      "message": "Ano"
+   }
+}

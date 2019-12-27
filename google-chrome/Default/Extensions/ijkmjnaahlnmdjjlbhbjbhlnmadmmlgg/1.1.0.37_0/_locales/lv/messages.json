@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 spēle"
+   },
+   "appDesc": {
+      "message": "Spēlēt 2048 jebkurā laikā vēlaties, tas ir vienmēr jūsu pārlūkprogrammā!"
+   },
+   "appName": {
+      "message": "Divi tūkstoši četrdesmit astoņi"
+   },
+   "backtogame": {
+      "message": "Atpakaļ uz savu spēli"
+   },
+   "best": {
+      "message": "Labākais"
+   },
+   "best_score": {
+      "message": "Jūsu Score"
+   },
+   "buy_now": {
+      "message": "NOPIRKT TAGAD"
+   },
+   "cancel": {
+      "message": "Atcelt"
+   },
+   "choose_currency": {
+      "message": "Izvēlies savu valūtu"
+   },
+   "congratulations": {
+      "message": "Apsveicu!"
+   },
+   "empty": {
+      "message": "Tukšs."
+   },
+   "enter_name": {
+      "message": "Ievadiet savu vārdu"
+   },
+   "game_over": {
+      "message": "Spēle Vairāk!"
+   },
+   "google_sing_in": {
+      "message": "Ienākt ar Google"
+   },
+   "input_placeholder": {
+      "message": "Piemērs: Mike"
+   },
+   "keep_going": {
+      "message": "Tur notiek"
+   },
+   "lb_suggestion": {
+      "message": "Gribu nokļūt sasniegumu tabulu?"
+   },
+   "leaderboard": {
+      "message": "Augstāko Rezultātu. Sezona #2"
+   },
+   "loading": {
+      "message": "Notiek ielāde..."
+   },
+   "login_to_use_undo": {
+      "message": "Lūdzu, piesakieties, lai izmantot, vai pirkt Atsaukt Kustas"
+   },
+   "new_game": {
+      "message": "Jaunas Spēles"
+   },
+   "night_mode": {
+      "message": "Nakts Režīms"
+   },
+   "night_mode_desc": {
+      "message": "Komfortu jūsu acīm, kad naktī"
+   },
+   "no": {
+      "message": "Nē"
+   },
+   "report_problem": {
+      "message": "Ziņot par problēmu"
+   },
+   "save": {
+      "message": "Saglabāt"
+   },
+   "score": {
+      "message": "Rezultāts"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Jūs varat iegādāties vairāk:"
+   },
+   "store_desription_zero": {
+      "message": "Jūs varat iegādāties tos:"
+   },
+   "store_title_0": {
+      "message": "Jums ir 1 atsaukt pārvietot"
+   },
+   "store_title_1": {
+      "message": "Jums ir 2 atsaukt kustas"
+   },
+   "store_title_2": {
+      "message": "Jums ir 5 atsaukt kustas"
+   },
+   "to_shop": {
+      "message": "Veikals"
+   },
+   "try_again": {
+      "message": "Mēģiniet vēlreiz"
+   },
+   "tutorial_1": {
+      "message": "Izmantojiet savu tastatūru,"
+   },
+   "tutorial_2": {
+      "message": "spēlēt"
+   },
+   "undo_step": {
+      "message": "Atsaukt Pārvietot"
+   },
+   "victory": {
+      "message": "Jūs uzvarēt!"
+   },
+   "yes": {
+      "message": "Jā"
+   }
+}

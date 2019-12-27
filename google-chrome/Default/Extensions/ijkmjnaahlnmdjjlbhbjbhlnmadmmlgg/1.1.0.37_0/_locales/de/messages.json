@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 Spiel"
+   },
+   "appDesc": {
+      "message": "Spielen 2048 Wann immer Sie wollen, es ist immer in deinem browser!"
+   },
+   "appName": {
+      "message": "Zwei tausend acht und vierzig"
+   },
+   "backtogame": {
+      "message": "Zurück zu deinem Spiel"
+   },
+   "best": {
+      "message": "Am besten"
+   },
+   "best_score": {
+      "message": "Ihre Punktzahl"
+   },
+   "buy_now": {
+      "message": "JETZT KAUFEN"
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "choose_currency": {
+      "message": "Wählen Sie Ihre Währung"
+   },
+   "congratulations": {
+      "message": "Herzlichen Glückwunsch!"
+   },
+   "empty": {
+      "message": "Leer."
+   },
+   "enter_name": {
+      "message": "Geben Sie Ihren Namen"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "google_sing_in": {
+      "message": "Mit Google anmelden"
+   },
+   "input_placeholder": {
+      "message": "Beispiel: Mike"
+   },
+   "keep_going": {
+      "message": "Keep going"
+   },
+   "lb_suggestion": {
+      "message": "Will man die highscore-Tabelle?"
+   },
+   "leaderboard": {
+      "message": "Top Score. Saison #2"
+   },
+   "loading": {
+      "message": "Loading..."
+   },
+   "login_to_use_undo": {
+      "message": "Bitte anmelden, um zu verwenden oder zu kaufen Undo Bewegt"
+   },
+   "new_game": {
+      "message": "Neues Spiel"
+   },
+   "night_mode": {
+      "message": "Nacht-Modus"
+   },
+   "night_mode_desc": {
+      "message": "Komfort für Ihre Augen, wenn Sie in der Nacht"
+   },
+   "no": {
+      "message": "Keine"
+   },
+   "report_problem": {
+      "message": "Ein problem melden"
+   },
+   "save": {
+      "message": "Speichern"
+   },
+   "score": {
+      "message": "Partitur"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Sie können kaufen mehr:"
+   },
+   "store_desription_zero": {
+      "message": "Sie können Sie kaufen:"
+   },
+   "store_title_0": {
+      "message": "Sie haben 1 rückgängig verschieben"
+   },
+   "store_title_1": {
+      "message": "Sie haben 2 undo bewegt"
+   },
+   "store_title_2": {
+      "message": "Sie haben 5 undo bewegt"
+   },
+   "to_shop": {
+      "message": "Shop"
+   },
+   "try_again": {
+      "message": "Versuchen Sie es erneut"
+   },
+   "tutorial_1": {
+      "message": "Verwenden Sie Ihre Tastatur"
+   },
+   "tutorial_2": {
+      "message": "spielen"
+   },
+   "undo_step": {
+      "message": "Verschieben Rückgängig Machen"
+   },
+   "victory": {
+      "message": "Gewinnen Sie!"
+   },
+   "yes": {
+      "message": "Ja"
+   }
+}

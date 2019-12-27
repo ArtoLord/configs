@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "Гра 2048 "
+   },
+   "appDesc": {
+      "message": "Грати 2048 в будь-який час ви хочете, це завжди у вашому браузері!"
+   },
+   "appName": {
+      "message": "Дві тисячі сорок вісім"
+   },
+   "backtogame": {
+      "message": "Повернемося до вашої гри"
+   },
+   "best": {
+      "message": "Кращі"
+   },
+   "best_score": {
+      "message": "Ваша Оцінка"
+   },
+   "buy_now": {
+      "message": "КУПИТИ ЗАРАЗ"
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "choose_currency": {
+      "message": "Виберіть валюту"
+   },
+   "congratulations": {
+      "message": "Вітаємо!"
+   },
+   "empty": {
+      "message": "Порожній."
+   },
+   "enter_name": {
+      "message": "Введіть ваше ім'я"
+   },
+   "game_over": {
+      "message": "Гра Закінчена!"
+   },
+   "google_sing_in": {
+      "message": "Увійти в Google"
+   },
+   "input_placeholder": {
+      "message": "Приклад: Майк"
+   },
+   "keep_going": {
+      "message": "Продовжуй"
+   },
+   "lb_suggestion": {
+      "message": "Хочете потрапити в таблицю рекордів?"
+   },
+   "leaderboard": {
+      "message": "Найвищий Бал. Сезон #2"
+   },
+   "loading": {
+      "message": "Завантаження..."
+   },
+   "login_to_use_undo": {
+      "message": "Будь ласка, увійдіть, щоб використовувати або купити скасування ходів"
+   },
+   "new_game": {
+      "message": "Нова Гра"
+   },
+   "night_mode": {
+      "message": "Нічний Режим"
+   },
+   "night_mode_desc": {
+      "message": "Комфорт для ваших очей, коли вночі"
+   },
+   "no": {
+      "message": "Немає"
+   },
+   "report_problem": {
+      "message": "Повідомити про проблему"
+   },
+   "save": {
+      "message": "Зберегти"
+   },
+   "score": {
+      "message": "Результат"
+   },
+   "signout": {
+      "message": "У файлі signout"
+   },
+   "store_desription": {
+      "message": "Ви можете купити більше:"
+   },
+   "store_desription_zero": {
+      "message": "Ви можете купити їх:"
+   },
+   "store_title_0": {
+      "message": "У вас є 1 скасувати переміщення"
+   },
+   "store_title_1": {
+      "message": "У вас є 2 скасування ходів"
+   },
+   "store_title_2": {
+      "message": "У вас є 5 скасування ходів"
+   },
+   "to_shop": {
+      "message": "Магазин"
+   },
+   "try_again": {
+      "message": "Спробуйте знову "
+   },
+   "tutorial_1": {
+      "message": "Використовувати вашу клавіатуру"
+   },
+   "tutorial_2": {
+      "message": "грати"
+   },
+   "undo_step": {
+      "message": "Скасувати Переміщення"
+   },
+   "victory": {
+      "message": "Ви виграли!"
+   },
+   "yes": {
+      "message": "Так"
+   }
+}

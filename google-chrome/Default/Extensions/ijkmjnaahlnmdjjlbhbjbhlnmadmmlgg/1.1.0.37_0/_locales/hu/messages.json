@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 játék"
+   },
+   "appDesc": {
+      "message": "Játszani 2048 amikor csak akar, mindig a böngészőben!"
+   },
+   "appName": {
+      "message": "Két ezer negyven nyolc"
+   },
+   "backtogame": {
+      "message": "Vissza a játékot"
+   },
+   "best": {
+      "message": "A legjobb"
+   },
+   "best_score": {
+      "message": "A Pontszám"
+   },
+   "buy_now": {
+      "message": "VÁSÁRLÁS MOST"
+   },
+   "cancel": {
+      "message": "Mégse"
+   },
+   "choose_currency": {
+      "message": "Válaszd ki a pénznem"
+   },
+   "congratulations": {
+      "message": "Gratulálok!"
+   },
+   "empty": {
+      "message": "Üres."
+   },
+   "enter_name": {
+      "message": "Adja meg a nevét"
+   },
+   "game_over": {
+      "message": "A Játék Vége!"
+   },
+   "google_sing_in": {
+      "message": "Jelentkezzen be a Google"
+   },
+   "input_placeholder": {
+      "message": "Példa: Mike"
+   },
+   "keep_going": {
+      "message": "Tovább"
+   },
+   "lb_suggestion": {
+      "message": "Szeretne a toplista asztalra?"
+   },
+   "leaderboard": {
+      "message": "Legjobb Pontszámot. Szezon #2"
+   },
+   "loading": {
+      "message": "Betöltés..."
+   },
+   "login_to_use_undo": {
+      "message": "Kérjük, jelentkezzen be vagy használja vásárlás Visszavonása Mozog"
+   },
+   "new_game": {
+      "message": "Új Játék"
+   },
+   "night_mode": {
+      "message": "Éjszakai Mód"
+   },
+   "night_mode_desc": {
+      "message": "Kényelem a szemét, amikor éjszaka"
+   },
+   "no": {
+      "message": "Nem"
+   },
+   "report_problem": {
+      "message": "A probléma jelentése"
+   },
+   "save": {
+      "message": "Mentés"
+   },
+   "score": {
+      "message": "Pontszám"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Lehet kapni több:"
+   },
+   "store_desription_zero": {
+      "message": "Lehet kapni őket:"
+   },
+   "store_title_0": {
+      "message": "1 visszavonás mozgás"
+   },
+   "store_title_1": {
+      "message": "2 visszavonás mozog"
+   },
+   "store_title_2": {
+      "message": "Van 5 visszavonás mozog"
+   },
+   "to_shop": {
+      "message": "Bolt"
+   },
+   "try_again": {
+      "message": "Próbáld újra"
+   },
+   "tutorial_1": {
+      "message": "A billentyűzet segítségével"
+   },
+   "tutorial_2": {
+      "message": "játszani"
+   },
+   "undo_step": {
+      "message": "Visszavonás Mozgás"
+   },
+   "victory": {
+      "message": "Te nyertél!"
+   },
+   "yes": {
+      "message": "Igen"
+   }
+}

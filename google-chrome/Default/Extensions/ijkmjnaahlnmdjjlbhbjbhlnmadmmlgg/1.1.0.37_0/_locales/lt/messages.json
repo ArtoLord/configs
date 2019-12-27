@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 žaidimas"
+   },
+   "appDesc": {
+      "message": "Žaisti 2048 bet kuriuo metu norite, tai visada tavo naršyklėje!"
+   },
+   "appName": {
+      "message": "Du tūkstančiai keturiasdešimt aštuoni"
+   },
+   "backtogame": {
+      "message": "Grįžti į savo žaidimą"
+   },
+   "best": {
+      "message": "Geriausias"
+   },
+   "best_score": {
+      "message": "Jūsų Rezultatas"
+   },
+   "buy_now": {
+      "message": "PIRKTI DABAR"
+   },
+   "cancel": {
+      "message": "Atšaukti"
+   },
+   "choose_currency": {
+      "message": "Pasirinkti savo valiuta"
+   },
+   "congratulations": {
+      "message": "Sveikiname!"
+   },
+   "empty": {
+      "message": "Tuščia."
+   },
+   "enter_name": {
+      "message": "Įveskite savo vardą"
+   },
+   "game_over": {
+      "message": "Žaidimas Baigtas!"
+   },
+   "google_sing_in": {
+      "message": "Prisijunkite naudodami \"Google\""
+   },
+   "input_placeholder": {
+      "message": "Pavyzdys: Vytas"
+   },
+   "keep_going": {
+      "message": "Keep going"
+   },
+   "lb_suggestion": {
+      "message": "Norite gauti nugalėtojų lentelę?"
+   },
+   "leaderboard": {
+      "message": "Viršų Rezultatas. Sezonas #2"
+   },
+   "loading": {
+      "message": "Kraunasi..."
+   },
+   "login_to_use_undo": {
+      "message": "Prašome prisijungti, kad naudoti arba pirkti Anuliuoti Juda"
+   },
+   "new_game": {
+      "message": "Naujas Žaidimas"
+   },
+   "night_mode": {
+      "message": "Naktinis Režimas"
+   },
+   "night_mode_desc": {
+      "message": "Komfortą jūsų akims, kai naktį"
+   },
+   "no": {
+      "message": "Nr."
+   },
+   "report_problem": {
+      "message": "Pranešti apie problemą\""
+   },
+   "save": {
+      "message": "Įrašyti"
+   },
+   "score": {
+      "message": "Rezultatas"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Jūs galite nusipirkti daugiau:"
+   },
+   "store_desription_zero": {
+      "message": "Jūs galite nusipirkti juos:"
+   },
+   "store_title_0": {
+      "message": "Jūs turite 1 anuliuoti perkelti"
+   },
+   "store_title_1": {
+      "message": "Jūs turite 2 anuliuoti juda"
+   },
+   "store_title_2": {
+      "message": "Jūs turite 5 anuliuoti juda"
+   },
+   "to_shop": {
+      "message": "Parduotuvė"
+   },
+   "try_again": {
+      "message": "Bandykite dar kartą"
+   },
+   "tutorial_1": {
+      "message": "Naudoti savo klaviatūrą"
+   },
+   "tutorial_2": {
+      "message": "žaisti"
+   },
+   "undo_step": {
+      "message": "Anuliuoti Perkelti"
+   },
+   "victory": {
+      "message": "Jūs laimėti!"
+   },
+   "yes": {
+      "message": "Taip"
+   }
+}

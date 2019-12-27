@@ -1,0 +1,56 @@
+2019/11/13-18:45:30.222 192a Reusing MANIFEST /home/artolord/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/11/13-18:45:30.222 192a Recovering log #33
+2019/11/13-18:45:30.290 192a Reusing old log /home/artolord/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000033.log 
+2019/11/13-18:45:50.189 1ad5 Level-0 table #37: started
+2019/11/13-18:45:50.361 1ad5 Level-0 table #37: 2125083 bytes OK
+2019/11/13-18:45:50.480 1ad5 Delete type=0 #33
+2019/11/13-18:45:51.759 1ad5 Level-0 table #39: started
+2019/11/13-18:45:51.919 1ad5 Level-0 table #39: 1759377 bytes OK
+2019/11/13-18:45:51.980 1ad5 Delete type=0 #36
+2019/11/13-18:45:51.983 1ad5 Compacting 4@0 + 4@1 files
+2019/11/13-18:45:52.301 1ad5 Generated table #40@0: 11 keys, 3228812 bytes
+2019/11/13-18:45:52.547 1ad5 Generated table #41@0: 27 keys, 2340929 bytes
+2019/11/13-18:45:52.618 1ad5 Generated table #42@0: 6 keys, 63404 bytes
+2019/11/13-18:45:52.618 1ad5 Compacted 4@0 + 4@1 files => 5633145 bytes
+2019/11/13-18:45:52.801 1ad5 compacted to: files[ 0 3 1 0 0 0 0 ]
+2019/11/13-18:45:52.801 1ad5 Delete type=2 #18
+2019/11/13-18:45:52.802 1ad5 Delete type=2 #29
+2019/11/13-18:45:52.802 1ad5 Delete type=2 #37
+2019/11/13-18:45:52.802 1ad5 Delete type=2 #32
+2019/11/13-18:45:52.802 1ad5 Delete type=2 #39
+2019/11/13-18:45:52.802 1ad5 Delete type=2 #34
+2019/11/13-18:45:52.802 1ad5 Delete type=2 #30
+2019/11/13-18:45:52.802 1ad5 Delete type=2 #28
+2019/11/13-18:48:54.000 1ad5 Level-0 table #44: started
+2019/11/13-18:48:54.198 1ad5 Level-0 table #44: 2553060 bytes OK
+2019/11/13-18:48:54.254 1ad5 Delete type=0 #38
+2019/11/13-18:48:54.578 1ad5 Level-0 table #46: started
+2019/11/13-18:48:54.766 1ad5 Level-0 table #46: 3407809 bytes OK
+2019/11/13-18:48:54.809 1ad5 Delete type=0 #43
+2019/11/13-18:50:56.032 1ad5 Level-0 table #48: started
+2019/11/13-18:50:56.190 1ad5 Level-0 table #48: 1968731 bytes OK
+2019/11/13-18:50:56.277 1ad5 Delete type=0 #45
+2019/11/13-18:54:57.254 1ad5 Level-0 table #50: started
+2019/11/13-18:54:57.407 1ad5 Level-0 table #50: 2375434 bytes OK
+2019/11/13-18:54:57.486 1ad5 Delete type=0 #47
+2019/11/13-18:54:57.489 1ad5 Compacting 4@0 + 2@1 files
+2019/11/13-18:54:57.666 1ad5 Generated table #51@0: 11 keys, 2381036 bytes
+2019/11/13-18:54:57.833 1ad5 Generated table #52@0: 12 keys, 2391567 bytes
+2019/11/13-18:54:57.967 1ad5 Generated table #53@0: 15 keys, 1156458 bytes
+2019/11/13-18:54:57.967 1ad5 Compacted 4@0 + 2@1 files => 5929061 bytes
+2019/11/13-18:54:58.021 1ad5 compacted to: files[ 0 4 1 0 0 0 0 ]
+2019/11/13-18:54:58.021 1ad5 Delete type=2 #50
+2019/11/13-18:54:58.021 1ad5 Delete type=2 #44
+2019/11/13-18:54:58.021 1ad5 Delete type=2 #41
+2019/11/13-18:54:58.021 1ad5 Delete type=2 #40
+2019/11/13-18:54:58.021 1ad5 Delete type=2 #46
+2019/11/13-18:54:58.021 1ad5 Delete type=2 #48
+2019/11/13-19:11:05.090 1ad5 Level-0 table #55: started
+2019/11/13-19:11:05.220 1ad5 Level-0 table #55: 2015588 bytes OK
+2019/11/13-19:11:05.259 1ad5 Delete type=0 #49
+2019/11/13-19:17:07.502 1ad5 Level-0 table #57: started
+2019/11/13-19:17:07.648 1ad5 Level-0 table #57: 1365013 bytes OK
+2019/11/13-19:17:07.682 1ad5 Delete type=0 #54
+2019/11/13-19:20:09.153 1ad5 Level-0 table #59: started
+2019/11/13-19:20:09.406 1ad5 Level-0 table #59: 3266754 bytes OK
+2019/11/13-19:20:09.444 1ad5 Delete type=0 #56

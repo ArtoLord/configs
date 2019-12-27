@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="photon/css/photon.min.css">
+    <link rel="stylesheet" href="tablesort-5.0.0/tablesort.css">
+    <link rel="stylesheet" href="panel.css">
+
+</head>
+<body>
+
+<div class="window">
+
+    <div class="window-content">
+        <table id="tools" class="table-striped">
+            <thead>
+            <tr>
+                <th data-sort-method="none" class="check"><input type="checkbox" id="checkall" title="Check all"></th>
+                <th>preview</th>
+                <th class="url">URL</th>
+                <th>mime</th>
+                <th data-sort-method="number">status</th>
+                <th data-sort-method="filesize">size</th>
+                <th data-sort-method="number">time</th>
+            </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <footer class="toolbar toolbar-footer">
+        <div class="toolbar-actions">
+            <div id="dl-button">
+                <button id="btn" class="btn btn-default btn-large">
+                    <span class="icon icon-download" style="margin-right: 6px"></span> Download
+                </button>
+                <input type="search" id="filter" title="Filter" placeholder="Filter">
+            </div>
+        </div>
+    </footer>
+
+</div>
+
+<script src="jquery/jquery.min.js"></script>
+
+<script src="tablesort-5.0.0/src/tablesort.js"></script>
+<script src="tablesort-5.0.0/src/sorts/tablesort.number.js"></script>
+<script src="tablesort-5.0.0/src/sorts/tablesort.filesize.js"></script>
+
+<script type="text/javascript" src="../ChromeExtTools.js"></script>
+<script src="panel.js"></script>
+
+</body>
+</html>

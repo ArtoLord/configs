@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 juego"
+   },
+   "appDesc": {
+      "message": "Jugar 2048 en cualquier momento que desee, siempre en su navegador!"
+   },
+   "appName": {
+      "message": "Dos mil cuarenta y ocho"
+   },
+   "backtogame": {
+      "message": "De vuelta a su juego"
+   },
+   "best": {
+      "message": "Mejor"
+   },
+   "best_score": {
+      "message": "Su Puntuación"
+   },
+   "buy_now": {
+      "message": "COMPRAR AHORA"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "choose_currency": {
+      "message": "Elija su moneda"
+   },
+   "congratulations": {
+      "message": "Felicitaciones!"
+   },
+   "empty": {
+      "message": "Vacío."
+   },
+   "enter_name": {
+      "message": "Introduzca su nombre de"
+   },
+   "game_over": {
+      "message": "Más De Juego!"
+   },
+   "google_sing_in": {
+      "message": "Iniciar sesión con Google"
+   },
+   "input_placeholder": {
+      "message": "Ejemplo: Mike"
+   },
+   "keep_going": {
+      "message": "Seguir adelante"
+   },
+   "lb_suggestion": {
+      "message": "Quiere llegar a la tabla de puntuaciones?"
+   },
+   "leaderboard": {
+      "message": "Puntuación Superior. Temporada #2"
+   },
+   "loading": {
+      "message": "Cargando..."
+   },
+   "login_to_use_undo": {
+      "message": "Por favor, inicie sesión para utilizar o comprar Deshacer Movimientos"
+   },
+   "new_game": {
+      "message": "Nuevo Juego"
+   },
+   "night_mode": {
+      "message": "El Modo Noche"
+   },
+   "night_mode_desc": {
+      "message": "Comodidad para sus ojos cuando en la noche"
+   },
+   "no": {
+      "message": "No"
+   },
+   "report_problem": {
+      "message": "Informar de un problema"
+   },
+   "save": {
+      "message": "Guardar"
+   },
+   "score": {
+      "message": "Puntuación"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "Usted puede comprar más:"
+   },
+   "store_desription_zero": {
+      "message": "Usted los puede comprar:"
+   },
+   "store_title_0": {
+      "message": "Tiene 1 deshacer mover"
+   },
+   "store_title_1": {
+      "message": "Tiene 2 deshacer movimientos"
+   },
+   "store_title_2": {
+      "message": "Tienes 5 deshacer movimientos"
+   },
+   "to_shop": {
+      "message": "Tienda"
+   },
+   "try_again": {
+      "message": "Inténtelo de nuevo"
+   },
+   "tutorial_1": {
+      "message": "Utilice el teclado"
+   },
+   "tutorial_2": {
+      "message": "para jugar"
+   },
+   "undo_step": {
+      "message": "Deshacer Mover"
+   },
+   "victory": {
+      "message": "Usted gana!"
+   },
+   "yes": {
+      "message": "Sí"
+   }
+}

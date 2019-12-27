@@ -1,0 +1,215 @@
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<link rel='stylesheet' type='text/css' href='./socialmodule/social.css' />
+	<script src='./socialmodule/social.js'></script>
+		<meta charset="utf-8">
+		<link href="./files/popup.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+	   <script src="./files/store.js"></script>
+	   <script src="./files/functions.js"></script>
+	   <script src="./files/leaderboard.js"></script>
+	   <script src="./files/popup.js"></script>
+		<div>
+			<div class="container">
+				<div class="above-game">
+					<div class="scores-container">
+						<div class="score-container" style="margin-right: 5px" l_attr="text" l_content="score">0</div>
+						<div class="best-container" l_attr="text" l_content="best">0</div>
+					</div>
+					<a class="restart-button" l_content="new_game">New Game</a>
+					<a class="undo-button disabled">
+						<span class="text" l_content="undo_step">Ход назад</span>
+						<span class="count">?</span>
+						<div class="loading">
+							<div class="line"></div>
+							<div class="line"></div>
+							<div class="line"></div>
+						</div>
+					</a>
+					<a class="store-button"></a>
+				</div>
+				<div class="game-container">
+					<div class="game-message">
+						<p></p>
+						<div class="lower">
+							<a class="keep-playing-button btn" l_content="keep_going">Keep going</a>
+							<a class="retry-button btn" l_content="try_again">Try again</a>
+							<a class="undo-button btn disabled">
+								<span class="text" l_content="undo_step">Ход назад</span>
+								<span class="count">?</span>
+							</a>
+						</div>
+					</div>
+					<div class="grid-container">
+						<div class="grid-row">
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+						</div>
+						<div class="grid-row">
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+						</div>
+						<div class="grid-row">
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+						</div>
+						<div class="grid-row">
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+							<div class="grid-cell"></div>
+						</div>
+					</div>
+					<div class="tile-container"></div>
+				</div>
+				<div class="footer-container">
+					<label class="switch" id="night_mode_checkbox">
+						<input type="checkbox" />
+						<div class="slider round"></div>
+					</label>
+					<a class="leaderboard-btn" l_content="leaderboard,backtogame" l_attr="leaderboard-text,backtogame-text">
+						<div class="back-img">
+							<svg xmlns="http://www.w3.org/2000/svg" width="13" height="10" viewBox="0 0 13 10">
+								<path fill="#8F7865" fill-rule="evenodd" stroke="#8F7865" d="M4.592 8.88c.15.16.4.16.555 0a.415.415 0 0 0 0-.568L2.336 5.404h9.275A.394.394 0 0 0 12 5.002a.4.4 0 0 0-.389-.408H2.336l2.81-2.9c.15-.16.15-.42 0-.574a.38.38 0 0 0-.554 0L1.116 4.716a.403.403 0 0 0 0 .566L4.592 8.88z"/>
+							</svg>
+						</div>
+                    </a>
+				</div>
+				<div class="leaderboard-container">
+					<div id="table-head" l_content="leaderboard">Leaderboard</div>
+					<div id="table-wrap">
+						<div id="table" l_attr="loading-text,empty-text" l_content="loading,empty" loading-text="Loading..." empty-text="Empty.">
+						</div>
+					</div>
+					<div id="form">
+						<div class="title" l_content="enter_name">
+							Enter your name
+						</div>
+						<input class="input" type="text" l_attr="placeholder" l_content="input_placeholder" placeholder="Example: Mike">
+						<div class="buttons">
+							<span class="btn save" l_content="save">Save</span>
+							<span class="btn cancel" l_content="cancel">Cancel</span>
+						</div>
+					</div>
+					<div id="bestscore">
+						<div class="big-text"><span id="congrat" l_content="congratulations">Congratulations!</span><br><span l_content="best_score">Best Score</span>: <span id="score">0</span></div>
+						<div class="small-text" l_content="lb_suggestion">Want to get to the <br> highscore table?</div>
+						<div class="buttons">
+							<span class="btn save" l_content="yes">Yes</span>
+							<span class="btn cancel" l_content="no">No</span>
+							<a class="undo-button disabled">
+								<span class="text" l_content="undo_step">Ход назад</span>
+								<span class="count">?</span>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="store-container">
+					<div id="products">
+						<div class="store-container-bg">
+							<div class="products-wrap">
+								<div class="big-text"></div>
+								<div class="small-text"></div>
+								<div class="products">
+									<div id="products-list">
+										<!--
+										<div class="product">
+											<img src="files/img/google.svg" class="icon">
+											<div class="title">12 undo moves</div>
+											<div class="buy-btn">1.99$</div>
+										</div>
+										-->
+									</div>
+								</div>
+								<div class="footer">
+									<div class="choose-currency">
+										<div class="text-wrap"><div class="text" l_content="choose_currency">Choose your currency</div></div>
+										<div class="currency-list">
+											<select>
+												<option value="USD">U.S. Dollar</option>
+												<option value="AUD">Australian Dollar</option>
+												<option value="CAD">Canadian Dollar</option>
+												<option value="EUR">Euro</option>
+												<option value="RUB">Russian Ruble</option>
+												<option value="GBP">Pound Sterling</option>
+											</select>
+										</div>
+									</div>
+									<div class="accaunt">
+										<div class="email"></div>
+										<div class="signout-btn" l_content="signout"></div>
+									</div>
+								</div>
+							</div>
+							<div class="close-btn"></div>
+							<div class="report_button">
+								<a href="mailto:support@browser-games.xyz" l_content="report_problem"></a>
+							</div>
+						</div>
+					</div>
+					
+					<div id="signin">
+						<div class="store-container-bg">
+							<div class="signin-wrap">
+								<div class="small-text" l_content="login_to_use_undo">Please login to use or buy Undo Moves</div>
+								<div class="google-signin">
+									<img src="./files/img/google.svg" class="google">
+									<p l_content="google_sing_in">Sign in with Google</p>
+								</div>
+							</div>
+							<div class="close-btn"></div>
+							<div class="report_button">
+								<a href="mailto:support@browser-games.xyz" l_content="report_problem"></a>
+							</div>
+						</div>
+					</div>
+					
+					<div id="night_mode_promo">
+						<div class="promo-popup">
+							<div class="title" l_content="night_mode">Night Mode</div>
+							<div class="description" l_content="night_mode_desc">Comfort for your eyes when at night</div>
+							<div class="image"></div>
+							<div class="store-btn">SHOP</div>
+							<div class="close-btn"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="start-lesson" class="start-lesson" style="display:none">
+			<div l_content="tutorial_1" class="big-text">Use your keyboard</div>
+			<div l_content="tutorial_2" class="small-text">to play</div>
+			<svg xmlns="http://www.w3.org/2000/svg" width="180" height="119" viewBox="0 0 180 119">
+				<g fill="none" fill-rule="evenodd">
+					<g transform="translate(61.875)">
+						<rect width="52.031" height="51.972" x="2.109" y="2.109" fill="#FFFDF5" stroke="#8E7966" stroke-width="4.219" rx="8.438"/>
+						<path fill="#8E7966" d="M29.75 14.72l11.751 11.833c.458.461.686 1.012.686 1.655 0 .63-.228 1.175-.686 1.636l-1.353 1.363c-.434.46-.976.69-1.625.69-.65 0-1.191-.23-1.625-.69l-5.308-5.326v14.135c0 .63-.225 1.142-.676 1.536-.451.394-.996.59-1.634.59h-2.31c-.639 0-1.183-.196-1.634-.59-.451-.394-.677-.906-.677-1.536V25.881l-5.29 5.326a2.23 2.23 0 0 1-1.642.69 2.23 2.23 0 0 1-1.642-.69l-1.355-1.363c-.445-.473-.668-1.018-.668-1.636 0-.631.223-1.182.668-1.654L26.483 14.72c.444-.448.992-.672 1.642-.672.662 0 1.203.224 1.625.672z"/>
+					</g>
+					<g transform="matrix(1 0 0 -1 61.875 118)">
+						<rect width="52.031" height="51.972" x="2.109" y="2.109" fill="#FFFDF5" stroke="#8E7966" stroke-width="4.219" rx="8.438"/>
+						<path fill="#8E7966" d="M29.75 14.72l11.751 11.833c.458.461.686 1.012.686 1.655 0 .63-.228 1.175-.686 1.636l-1.353 1.363c-.434.46-.976.69-1.625.69-.65 0-1.191-.23-1.625-.69l-5.308-5.326v14.135c0 .63-.225 1.142-.676 1.536-.451.394-.996.59-1.634.59h-2.31c-.639 0-1.183-.196-1.634-.59-.451-.394-.677-.906-.677-1.536V25.881l-5.29 5.326a2.23 2.23 0 0 1-1.642.69 2.23 2.23 0 0 1-1.642-.69l-1.355-1.363c-.445-.473-.668-1.018-.668-1.636 0-.631.223-1.182.668-1.654L26.483 14.72c.444-.448.992-.672 1.642-.672.662 0 1.203.224 1.625.672z"/>
+					</g>
+					<g transform="matrix(0 1 1 0 .03 61.78)">
+						<rect width="52.031" height="51.972" x="2.109" y="2.109" fill="#FFFDF5" stroke="#8E7966" stroke-width="4.219" rx="8.438"/>
+						<path fill="#8E7966" d="M29.75 14.72l11.751 11.833c.458.461.686 1.012.686 1.655 0 .63-.228 1.175-.686 1.636l-1.353 1.363c-.434.46-.976.69-1.625.69-.65 0-1.191-.23-1.625-.69l-5.308-5.326v14.135c0 .63-.225 1.142-.676 1.536-.451.394-.996.59-1.634.59h-2.31c-.639 0-1.183-.196-1.634-.59-.451-.394-.677-.906-.677-1.536V25.881l-5.29 5.326a2.23 2.23 0 0 1-1.642.69 2.23 2.23 0 0 1-1.642-.69l-1.355-1.363c-.445-.473-.668-1.018-.668-1.636 0-.631.223-1.182.668-1.654L26.483 14.72c.444-.448.992-.672 1.642-.672.662 0 1.203.224 1.625.672z"/>
+					</g>
+					<g transform="rotate(90 59.095 120.875)">
+						<rect width="52.031" height="51.972" x="2.109" y="2.109" fill="#FFFDF5" stroke="#8E7966" stroke-width="4.219" rx="8.438"/>
+						<path fill="#8E7966" d="M29.75 14.72l11.751 11.833c.458.461.686 1.012.686 1.655 0 .63-.228 1.175-.686 1.636l-1.353 1.363c-.434.46-.976.69-1.625.69-.65 0-1.191-.23-1.625-.69l-5.308-5.326v14.135c0 .63-.225 1.142-.676 1.536-.451.394-.996.59-1.634.59h-2.31c-.639 0-1.183-.196-1.634-.59-.451-.394-.677-.906-.677-1.536V25.881l-5.29 5.326a2.23 2.23 0 0 1-1.642.69 2.23 2.23 0 0 1-1.642-.69l-1.355-1.363c-.445-.473-.668-1.018-.668-1.636 0-.631.223-1.182.668-1.654L26.483 14.72c.444-.448.992-.672 1.642-.672.662 0 1.203.224 1.625.672z"/>
+					</g>
+				</g>
+			</svg>
+		</div>
+	</body>
+</html>

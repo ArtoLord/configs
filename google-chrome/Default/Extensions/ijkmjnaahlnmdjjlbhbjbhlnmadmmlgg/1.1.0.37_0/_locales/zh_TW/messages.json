@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "2048 game"
+   },
+   "appDesc": {
+      "message": "Play 2048 anytime you want, it's always in your browser!"
+   },
+   "appName": {
+      "message": "2048"
+   },
+   "backtogame": {
+      "message": "Back to your game"
+   },
+   "best": {
+      "message": "Best"
+   },
+   "best_score": {
+      "message": "Your Score"
+   },
+   "buy_now": {
+      "message": "BUY NOW"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "choose_currency": {
+      "message": "Choose your currency"
+   },
+   "congratulations": {
+      "message": "Congratulations!"
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "enter_name": {
+      "message": "Enter your name"
+   },
+   "game_over": {
+      "message": "Game Over!"
+   },
+   "google_sing_in": {
+      "message": "Sign in with Google"
+   },
+   "input_placeholder": {
+      "message": "Example: Mike"
+   },
+   "keep_going": {
+      "message": "Keep going"
+   },
+   "lb_suggestion": {
+      "message": "Want to get to the highscore table?"
+   },
+   "leaderboard": {
+      "message": "Top Score. Season #2"
+   },
+   "loading": {
+      "message": "Loading..."
+   },
+   "login_to_use_undo": {
+      "message": "Please login to use or buy Undo Moves"
+   },
+   "new_game": {
+      "message": "New Game"
+   },
+   "night_mode": {
+      "message": "Night Mode"
+   },
+   "night_mode_desc": {
+      "message": "Comfort for your eyes when at night"
+   },
+   "no": {
+      "message": "No"
+   },
+   "report_problem": {
+      "message": "Report a problem"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "score": {
+      "message": "Score"
+   },
+   "signout": {
+      "message": "Signout"
+   },
+   "store_desription": {
+      "message": "You can buy more:"
+   },
+   "store_desription_zero": {
+      "message": "You can buy them:"
+   },
+   "store_title_0": {
+      "message": "You have 1 undo move"
+   },
+   "store_title_1": {
+      "message": "You have 2 undo moves"
+   },
+   "store_title_2": {
+      "message": "You have 5 undo moves"
+   },
+   "to_shop": {
+      "message": "Shop"
+   },
+   "try_again": {
+      "message": "Try again"
+   },
+   "tutorial_1": {
+      "message": "Use your keyboard"
+   },
+   "tutorial_2": {
+      "message": "to play"
+   },
+   "undo_step": {
+      "message": "Undo Move"
+   },
+   "victory": {
+      "message": "You win!"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

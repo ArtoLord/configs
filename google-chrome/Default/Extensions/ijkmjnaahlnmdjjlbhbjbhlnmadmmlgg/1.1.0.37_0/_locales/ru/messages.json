@@ -1,0 +1,122 @@
+{
+   "appButtonDesc": {
+      "message": "Игра 2048"
+   },
+   "appDesc": {
+      "message": "Играйте в 2048 в любое время, когда захотите, она всегда в вашем браузере!"
+   },
+   "appName": {
+      "message": "2048"
+   },
+   "backtogame": {
+      "message": "Назад в игру"
+   },
+   "best": {
+      "message": "Рекорд"
+   },
+   "best_score": {
+      "message": "Ваш Результат"
+   },
+   "buy_now": {
+      "message": "Купить за"
+   },
+   "cancel": {
+      "message": "Отмена"
+   },
+   "choose_currency": {
+      "message": "Выберите вашу валюту"
+   },
+   "congratulations": {
+      "message": "Поздравляем!"
+   },
+   "empty": {
+      "message": "Пусто."
+   },
+   "enter_name": {
+      "message": "Введите имя"
+   },
+   "game_over": {
+      "message": "Игра закончена!"
+   },
+   "google_sing_in": {
+      "message": "Sign in with Google"
+   },
+   "input_placeholder": {
+      "message": "Например: Иван"
+   },
+   "keep_going": {
+      "message": "Продолжить"
+   },
+   "lb_suggestion": {
+      "message": "Хотите попасть в таблицу рекордов?"
+   },
+   "leaderboard": {
+      "message": "Лучшие результаты. Сезон №2"
+   },
+   "loading": {
+      "message": "Загрузка..."
+   },
+   "login_to_use_undo": {
+      "message": "Пожалуйста, войдите, чтобы воспользоваться или купить Отмену хода"
+   },
+   "new_game": {
+      "message": "Новая Игра"
+   },
+   "night_mode": {
+      "message": "Ночной режим"
+   },
+   "night_mode_desc": {
+      "message": "Комфортно для глаз в ночное время"
+   },
+   "no": {
+      "message": "Нет"
+   },
+   "report_problem": {
+      "message": "Сообщить о проблеме"
+   },
+   "save": {
+      "message": "Сохранить"
+   },
+   "score": {
+      "message": "Очки"
+   },
+   "signout": {
+      "message": "Выйти"
+   },
+   "store_desription": {
+      "message": "Вы можете купить еще:"
+   },
+   "store_desription_zero": {
+      "message": "Вы можете купить их:"
+   },
+   "store_title_0": {
+      "message": "У вас 1 отмена хода"
+   },
+   "store_title_1": {
+      "message": "У вас 2 отмены хода"
+   },
+   "store_title_2": {
+      "message": "У вас 5 отмен ходов"
+   },
+   "to_shop": {
+      "message": "В магазин"
+   },
+   "try_again": {
+      "message": "Заново"
+   },
+   "tutorial_1": {
+      "message": "Используйте стрелки"
+   },
+   "tutorial_2": {
+      "message": "для игры"
+   },
+   "undo_step": {
+      "message": "Ход назад"
+   },
+   "victory": {
+      "message": "Победа!"
+   },
+   "yes": {
+      "message": "Да"
+   }
+}
